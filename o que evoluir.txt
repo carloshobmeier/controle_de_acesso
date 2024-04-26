@@ -1,0 +1,7 @@
+
+
+texto colorido no terminal
+
+arquivo para deixar registrado o usuário que foi 'bloqueado'
+
+novos usuários herdar certas permissões

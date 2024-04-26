@@ -1,0 +1,4 @@
+admin,senhaadmin
+carlos,senhadocarlos
+amanda,senhadaamanda
+pedro,senhadopedro

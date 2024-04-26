@@ -1,0 +1,8 @@
+carlos,ler,notas.txt
+carlos,ler,gabarito.txt
+carlos,escrever,notas.txt
+carlos,executar,notas.txt
+amanda,ler,notas.txt
+amanda,escrever,notas.txt
+amanda,ler,notas.txt
+pedro,ler,notas.txt
